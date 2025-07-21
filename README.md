@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Sayak Das 👋  
+> Just another builder crafting in silence.
+
+🎓 CSE undergrad | Code addict | Calm rebel  
+💻 Interests: Full-stack dev | AI/ML | Systems  
+🛠️ Building cool things, sharing less, shipping more.
 
 <!--
-**Human-ctrl-ai/Human-ctrl-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Projects Worth Peeking At  
+- 🔹 `Project-Name`: A one-liner about what it does  
+- 🔹 `DSA-Journal`: 100+ solved questions on LeetCode  
+- 🔹 `Mini-LMS`: Learning management system clone  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 Reach Out (Only If It’s Worth It)  
+[LinkedIn] | [Portfolio] | [Email]
 -->
